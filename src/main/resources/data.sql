@@ -1,0 +1,17 @@
+INSERT INTO unidade_medida (codigo, nome, sigla, ativo, data_cadastro, data_atualizacao) VALUES
+    (1, 'Unidade', 'Un', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (2, 'Peça', 'Pç', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (3, 'Caixa', 'Cx', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (4, 'Cartela', 'Ct', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (5, 'Dúzia', 'Dz', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (6, 'Groza', 'Gz', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (7, 'Par', 'Pa', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (8, 'Pacote', 'Pt', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (9, 'Rolo', 'Rl', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (10, 'Metro', 'm', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (11, 'Decâmetro', 'dam', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (12, 'Hectômetro', 'hm', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (13, 'Quilômetro', 'km', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (14, 'Decímetro', 'dm', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (15, 'Centímetro', 'cm', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP()),
+    (16, 'Milímetro', 'mm', 1, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
